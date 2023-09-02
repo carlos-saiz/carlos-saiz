@@ -5,6 +5,7 @@
 
 - 👨‍💻 All of my projects are available at 
 https://carlossaizdev.netlify.app/
+[![Netlify Status](https://api.netlify.com/api/v1/badges/58854ef4-bebe-4692-8967-d7664ed2cbb5/deploy-status)](https://app.netlify.com/sites/carlossaizdev/deploys)
 
 - 📫 How to reach me **carlos.saiz.godas02@gmail.com**
 
